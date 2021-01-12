@@ -1,4 +1,6 @@
-sudo: required
+languaje: node_js
+node_js:
+  - "12"
 services:
   - docker
 
